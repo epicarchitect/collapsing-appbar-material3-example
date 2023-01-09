@@ -1,0 +1,1 @@
+Example for collapsing appbar with material3
