@@ -5,7 +5,7 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.TestingMaterial3">
         <activity
-            android:name="epicarchitect.MainActivity"
+            android:name="epicarchitect.collapsing.appbar.material3.example.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.TestingMaterial3">
             <intent-filter>

@@ -1,6 +1,5 @@
-package epicarchitect
+package epicarchitect.collapsing.appbar.material3.example
 
 import androidx.appcompat.app.AppCompatActivity
-import epicarchitect.testingmaterial3.R
 
 class MainActivity : AppCompatActivity(R.layout.activity_main)

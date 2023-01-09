@@ -23,7 +23,7 @@
                 app:layout_collapseMode="pin"
                 app:navigationIcon="@drawable/ic_back"
                 app:navigationIconTint="?attr/colorOnBackground"
-                app:title="App bar title" />
+                app:title="Lorem ipsum" />
         </com.google.android.material.appbar.CollapsingToolbarLayout>
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -35,6 +35,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="16dp"
             android:text="@string/lorem_ipsum" />
     </androidx.core.widget.NestedScrollView>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
