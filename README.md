@@ -1,4 +1,4 @@
-# Example for collapsing appbar with material3
+### An example of collapsing the app bar with material3
 
 ```xml
 <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
